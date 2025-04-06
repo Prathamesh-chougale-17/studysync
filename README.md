@@ -47,8 +47,6 @@ cd studysync
 
 2. Install dependencies
 ```bash
-# Install root dependencies
-pnpm install
 
 # Install client dependencies
 cd client
